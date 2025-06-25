@@ -60,6 +60,9 @@ https://github.com/user-attachments/assets/6fee1770-42ce-4581-8a33-bd7dd12ff832
 
 
 ---
+🏛️ 요구명세서 
+![image](https://github.com/user-attachments/assets/8c25a9de-ba94-4b7c-afb7-11605d6ddd03)
+![image](https://github.com/user-attachments/assets/cbda57a3-110b-4c3a-bd99-cdcca4704536)
 
 
 🏛️ 홍보 이미지
