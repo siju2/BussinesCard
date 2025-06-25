@@ -55,7 +55,7 @@ DecaDive 애플리케이션의 사용자 유형별 기능과 전체적인 시스
 ---
 
 🏛️홈페이지 
-
+링크: https://siju2.github.io/project/
 ![image](https://github.com/user-attachments/assets/a661adb8-5350-4ca1-8f04-23d67d6c78a9)
 
 ---
