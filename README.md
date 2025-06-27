@@ -53,9 +53,13 @@ BusinessCardMaker는 개인과 기업이 손쉽게 맞춤형 명함을 디자인
 🏛️ 콘솔 시연
 
 비회원과 회원입장에서의 콘솔기능
-https://github.com/user-attachments/assets/58ea1c6c-890f-45f2-b553-fe4a4378f2fe
+
+
+https://github.com/user-attachments/assets/c9a99a3b-b987-4c40-8993-10755ecc5a9c
+
 
 관리자의 입장에서 콘솔기능
+
 https://github.com/user-attachments/assets/055fc02b-faba-450d-9d53-f7af24ddc731
 
 ---
