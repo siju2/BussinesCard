@@ -36,12 +36,8 @@ BusinessCardMaker는 개인과 기업이 손쉽게 맞춤형 명함을 디자인
 ---
 
 📈 유스케이스 다이어그램
-![화면 캡처 2025-06-27 125746](https://github.com/user-attachments/assets/cd7db9e4-9798-4a0c-8527-34db5c6154d0)
-![화면 캡처 2025-06-27 125820](https://github.com/user-attachments/assets/8e71d4e5-2156-4cb7-9666-c3688a9dd956)
-![화면 캡처 2025-06-27 125954](https://github.com/user-attachments/assets/4f3a863a-64a1-4799-9111-7ee15bf71756)
-![화면 캡처 2025-06-27 130005](https://github.com/user-attachments/assets/1b28774b-6536-44f7-bfcf-d2149f44bd9d)
+![화면 캡처 2025-06-27 125746_waifu2x_art_noise1_scale](https://github.com/user-attachments/assets/06eb4803-8a93-43f2-a377-07556a4e7847)
 
----
 
 🏛️ 클래스 다이어그램
 ![화면 캡처 2025-06-27 130459](https://github.com/user-attachments/assets/924146e4-ff1d-4c04-92b7-67a1e763da94)
@@ -61,7 +57,6 @@ https://github.com/user-attachments/assets/58ea1c6c-890f-45f2-b553-fe4a4378f2fe
 
 관리자의 입장에서 콘솔기능
 https://github.com/user-attachments/assets/055fc02b-faba-450d-9d53-f7af24ddc731
-
 
 ---
 
